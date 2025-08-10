@@ -118,3 +118,8 @@
 
 // Q20
 // Answer
+// let odd= [1, 3, 5, 7, 9];
+// let enven= [ 2, 4, 6, 8, 10]
+// let com =odd.reverse().concat(odd,enven);
+
+
