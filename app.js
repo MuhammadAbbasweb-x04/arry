@@ -40,6 +40,81 @@
 
 // Q8
 // Answer
-l
+// let fruits = "apple,banana,mango";
+// let newarr = fruits.split(",");
+// console.log(newarr);
+
+// Q9
+// Answer
+// let code = ['J','S'];
+// let newarr = code.join(",")
+// console.log(newarr);
 
 
+// Q10
+// Answer
+// let concatone = ['pen','pencil'];
+// let concattwo =['eraser','sharpener'];
+// let newarr = concatone.concat(concattwo);
+// console.log(newarr);
+
+// Q11
+// Answer
+// let numbers =[10,5,2,8];
+// numbers.sort(); 
+// console.log(numbers);
+
+
+// Q12
+// Answer
+// let names = ["Zhoeb","Muhammad"];
+// names.sort();
+// console.log(names);
+
+// Q13
+// Answer
+// let numbers = [1,2,3,4,5];
+// numbers.reverse();
+// console.log(numbers);
+
+
+// Q14
+// Answer
+// let colors = ["blue","red","green"];
+//  let clo = colors.indexOf("blue");
+// console.log(clo)
+
+
+// Q15
+// Answer
+// let fruits = [];
+// fruits.push("apple","mango","grapes")
+// console.log(fruits);
+
+// Q16
+// Answer
+// let number = [1,2,3,4,5];
+// number.splice(2,2);
+// console.log(number);
+
+// Q17
+// Answer
+// let code = "HTML CSS JavaScript";
+// code.split();
+// console.log(code);
+
+
+// Q18
+// Answer
+// let words = ['a', 'b', 'c'];
+// words.reverse().join(",")
+
+// Q19
+// Answer
+// let cities =["sukkur","quetta","karachi","islamabad"];
+// let newcite=cities.indexOf("karachi");
+// console.log(newcite);
+
+
+// Q20
+// Answer
